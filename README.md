@@ -27,4 +27,3 @@ Notice the Max independent set is NP-Complete problem. So it is hard problem in 
 
 
 
-
