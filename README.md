@@ -1,4 +1,4 @@
-# MAXIND
+# MAX_IND
 
 
 Things required : 
